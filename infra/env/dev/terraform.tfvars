@@ -1,1 +1,1 @@
-bucket_name = "dev-eu-north-1"
+bucket_name = "m0tay-dev-eu-north-1-tf-pipeline"
