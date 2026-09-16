@@ -18,3 +18,4 @@ jobs:
       aws-region: "eu-north-1"
       aws-statefile-s3-bucket: "m0tay-prod-north-1-tf-pipeline"
       aws-lock-dynamodb-table: "eu-north-1-terraform-pipeline-lock"
+
